@@ -16,7 +16,7 @@ const HomePage = () => {
 		<div className='flex flex-col gap-12'>
 			<div className='flex flex-col gap-5 py-8 -mt-16 text-center bg-white rounded-lg shadow-md md:px-32'>
 				<h1 className='text-5xl font-bold tracking-tight text-green-600'>
-					Join us in  carbon emissions!
+					Join us in reducing carbon emissions!
 				</h1>
 				<span className='text-xl'>Ecofoodbag is just a click away!</span>
 				<SearchBar
